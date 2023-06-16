@@ -1,4 +1,4 @@
-## OPTIMISATION DE LA GESTION DES DONNEES D'UNE BOUTIQUE AVEC PYTHON
+## OPTIMISATION DE LA GESTION DES DONNEES D'UNE BOUTIQUE EN LIGNE AVEC PYTHON
 #### Projet effectué dans le cadre de ma formation chez OpenClassrooms
 ## Contexte
 Dans le cadre d’une mission consistant à réaliser une analyse de données concernant une boutique de vente en ligne, dont l’objectif est de mettre en évidence des informations utiles pour répondre aux besoins de gestion
